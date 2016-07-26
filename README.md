@@ -7,7 +7,7 @@ Peer Graded Assignment: Getting and Cleaning Data Course Project - Coursera
 
 Script Purpose:
 
- To prepare tidy data that can be used for later analysis
+ To prepare tidy data that can be used for later analysis.
  The following steps will by applied to the UCI Human Activity Recongnition Dataset downloaded from 
  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
